@@ -1,11 +1,12 @@
 {
-  "name": "will-you-be-my-valentine",
-  "homepage": "https://saurabhnemade.github.io/will-you-be-my-valentine",
+  "name": "be-my-valentine",
+  "homepage": "https://lite-dameon.github.io/be-my-valentine/",
   "private": true,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
     "build": "tsc && vite build",
     "deploy": "vite build && gh-pages -d dist",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
