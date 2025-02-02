@@ -1,29 +1,23 @@
-# Will you be my valentine?
+# 💖 Be My Valentine? 💖  
 
-Valentine Page Creator: https://i143.xyz/create
+🎭 **Live Demo:** [See It in Action](https://lite-dameon.github.io/be-my-valentine/)  
 
-Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
+## ✨ About the Project  
+This fun and interactive web page is designed to make Valentine’s Day extra special! Inspired by creative online projects, it offers a playful way to express your feelings.  
 
-This is a fun project for valentines day to bring smile on face of your special person!!
+## 🚀 Installation & Setup  
 
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+To get started, follow these steps:  
 
-# How to start
-```
-npm install -g pnpm
-pnpm i
-pnpm run dev
-```
-
-# Preview
-
-![image description](demo.gif)
-
-
-# How to deploy it
-```
-pnpm run deploy
-```
-
-Made with ❤️ in Berlin!
+1. **Install `npm` globally (if not installed):**  
+   ```sh
+   npm install package.json
+   ```
+1. **Run the project locally:**
+   ```
+    npm run dev
+   ```
+1. Deploy to github pages
+   ```
+    npm run deploy
+   ```
